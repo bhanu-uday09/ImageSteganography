@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageSteganography</string>
+    <string name="title_activity_encode2">Encode2</string>
+    <string name="title_activity_decode">Decode</string>
+</resources>
